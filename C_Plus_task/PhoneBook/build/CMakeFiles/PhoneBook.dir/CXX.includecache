@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/my/C_Plus_task/PhoneBook/PhoneBook.cpp
+PhoneBook.h
+/home/li/my/C_Plus_task/PhoneBook/PhoneBook.h
+unordered_map
+-
+iterator
+-
+vector
+-
+
+/home/li/my/C_Plus_task/PhoneBook/PhoneBook.h
+iostream
+-
+vector
+-
+unordered_map
+-
+
+/home/li/my/C_Plus_task/PhoneBook/test.cpp
+PhoneBook.h
+/home/li/my/C_Plus_task/PhoneBook/PhoneBook.h
+

@@ -1,0 +1,3 @@
+/home/li/my/C_Plus_task/Queue/build/CMakeFiles/rebuild_cache.dir
+/home/li/my/C_Plus_task/Queue/build/CMakeFiles/Queue.dir
+/home/li/my/C_Plus_task/Queue/build/CMakeFiles/edit_cache.dir

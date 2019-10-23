@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/my/C_Plus_task/Queue/Queue.cpp
+Queue.h
+/home/li/my/C_Plus_task/Queue/Queue.h
+
+/home/li/my/C_Plus_task/Queue/Queue.h
+iostream
+-
+
+/home/li/my/C_Plus_task/Queue/test.cpp
+Queue.h
+/home/li/my/C_Plus_task/Queue/Queue.h
+Queue.cpp
+/home/li/my/C_Plus_task/Queue/Queue.cpp
+

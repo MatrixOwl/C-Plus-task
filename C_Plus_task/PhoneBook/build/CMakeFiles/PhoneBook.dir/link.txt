@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/PhoneBook.dir/test.cpp.o CMakeFiles/PhoneBook.dir/PhoneBook.cpp.o  -o PhoneBook 

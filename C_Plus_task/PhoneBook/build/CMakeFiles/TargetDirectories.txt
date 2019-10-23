@@ -1,0 +1,3 @@
+/home/li/my/C_Plus_task/PhoneBook/build/CMakeFiles/rebuild_cache.dir
+/home/li/my/C_Plus_task/PhoneBook/build/CMakeFiles/PhoneBook.dir
+/home/li/my/C_Plus_task/PhoneBook/build/CMakeFiles/edit_cache.dir
